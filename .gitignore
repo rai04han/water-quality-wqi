@@ -1,0 +1,6 @@
+# generated model files (rebuilt by make_demo_models.py)
+*.pkl
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
